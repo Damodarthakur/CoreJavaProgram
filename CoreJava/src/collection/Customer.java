@@ -26,9 +26,15 @@ public class Customer {
 	    set.add(b1);  
 	    set.add(b2);  
 	    set.add(b3);  
-	    //Traversing HashSet  
-	    for(Book b:set){  
-	    System.out.println(b.id+" "+b.name+" "+b.author+" "+b.publisher+" "+b.quantity);  
+	    //Traversing HashSet 
+	    //System.out.println(set.t);
+	    for (Book book : set) {
+	        System.out.println(book);
+	    }
+	    for(Book b:set){ 
+	    	
+	    System.out.println(b.id+" "+b.name+" "+b.author+" "+b.publisher+" "+b.quantity);
+	    
 	    }
 		
 		
