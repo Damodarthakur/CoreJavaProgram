@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42c52860-3be3-4a77-bf7a-85a3833c0b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/CountOfFirstRepeat2way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/CountOfFirstRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/NumberStartsWithOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/OccurrenceOfEachCharNmaxChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/ReverseArrayString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/SortStrFirstElementBananaLastCherry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/StringWithHighestChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/streamApiPrograms/ToggleCaseStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/BubbleSortPract.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/BubbleSortPract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/DuplicateArrayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/DuplicateArrayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/ForEachExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/ForEachExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/MethodOverloadingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/MethodOverloadingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/PyramidLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/PyramidLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/PyramidRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/PyramidRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/TestFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/TestFibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/WhileLoopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/JavaPrograms/WhileLoopExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/arrays/ReverseIntArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/arrays/ReverseIntArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/arrays/SecondLargestIntArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/arrays/SecondLargestIntArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/collection/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/collection/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/collection/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/collection/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/collection/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/collection/LinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/exceptionHandling/TryCatchFinallyBlockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/bin/exceptionHandling/TryCatchFinallyBlockExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/multiThreading/Mythread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/bin/multiThreading/ThreadPriorityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/collection/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/collection/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/multiThreading/ThreadPriorityDemo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2jJqu4U914QSRpNm6vIe82X6yGV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHubRepo/microservices-springboot3-byDailyCode-11-2025/springboot-3-microservices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.EmployeeDepartmentWiseSalary">
+    <configuration name="CountOfFirstRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApiPrograms.CountOfFirstRepeating" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApiPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDepartmentWiseSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApiPrograms.EmployeeDepartmentWiseSalary" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApiPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeToMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApiPrograms.EmployeeToMap1" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApiPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApiPrograms.FlatMap" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApiPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OccurrenceOfEachCharNmaxChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApiPrograms.OccurrenceOfEachCharNmaxChar" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApiPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeDepartmentWiseSalary" />
+        <item itemvalue="Application.FlatMap" />
+        <item itemvalue="Application.EmployeeToMap1" />
+        <item itemvalue="Application.OccurrenceOfEachCharNmaxChar" />
+        <item itemvalue="Application.CountOfFirstRepeating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c52860-3be3-4a77-bf7a-85a3833c0b35" name="Changes" comment="" />
+      <created>1721115766077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721115766077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/CorTest/Acco.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/arrays/SumOfTwoArrEqualToTarget.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/arrays/SumOfTwoArrEqualToTarget.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
