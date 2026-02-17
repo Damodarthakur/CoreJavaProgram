@@ -24,7 +24,7 @@ public class FlatMap2 {
 	          
 	        // Using flatMap for transformating and flattening.
 	        List<Integer> listofInts  = listOfListofInts.stream()
-	                                    .flatMap(lst -> lst.stream())//use this also (List ::stream)
+	                                    .flatMap((List ::stream))//use this also lst -> lst.stream()
 	                                    .collect(Collectors.toList());
 	        						
 	        System.out.println("The Structure after flattening is : " +

@@ -1,32 +1,27 @@
 package arrays;
 
+import java.util.HashMap;
+
 public class SumOfTwoArray {
-	public static void main(String[] args) {
-		//[3,4,5,2,1,6,9] sum=5
+	public static int[] twoSum(int[] nums, int target) {
+		HashMap<Integer, Integer> map = new HashMap<>();
 
-				//o/p=[3,2] [4,1] [5]
+		for (int i = 0; i < nums.length; i++) {
+			int complement = target - nums[i];
 
-				int[] arr = {3,4,5,2,1,6,9};
-				int sum = 5;
-
-				for(int i=0;i<arr.length;i++){
-				for(int j=i+1;j<arr.length;j++){
-				if(arr[i] +arr[j] == sum) {
-					System.out.println(arr[i]+","+arr[j]);
-					
-				}
-				
-				
-				 }
-				}
-				/*
-				for (int i = 0; i < arr.length; i++) {
-				    for (int j = i + 1; j < arr.length; j++) {
-				        if (arr[i] + arr[j] == sum) {
-				            System.out.println("[" + arr[i] + ", " + arr[j] + "]");
-				        }
-				    }
-				}*/
+			if (map.containsKey(complement)) {
+				return new int[]{map.get(complement), i};
+			}
+			map.put(nums[i], i);
+		}
+		return new int[]{};
 	}
+	public static void main(String[] args) {
+
+				int[] nums = {2, 7,1,8,3,6, 11, 15};
+				int target = 9;
+				int[] result = twoSum(nums, target);
+				System.out.println(result[0] + " " + result[1]);
+			}
 
 }

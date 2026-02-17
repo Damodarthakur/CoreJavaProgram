@@ -43,6 +43,18 @@ class Employee {
 		Salary = salary;
 	}
 
+	@Override
+	public String toString() {
+		return "Employee{" +
+				"id=" + id +
+				", name='" + name + '\'' +
+				", age=" + age +
+				", sex='" + sex + '\'' +
+				", Designation='" + Designation + '\'' +
+				", Salary=" + Salary +
+				'}';
+	}
+
 	public int getSalary() {
 		return Salary;
 	}

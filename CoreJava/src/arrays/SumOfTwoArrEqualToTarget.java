@@ -13,7 +13,7 @@ public class SumOfTwoArrEqualToTarget {
             }
             map.put(nums[i], i);
         }
-        throw new IllegalArgumentException("No two sum solution");
+        throw new IllegalArgumentException("No two numbers add up to target");
     }
     public static void main(String[] args) {
 
@@ -21,8 +21,8 @@ public class SumOfTwoArrEqualToTarget {
 
             int[] nums1 = {2, 7, 11, 15};
             int target1 = 9;
-            int[] result1 = twoSum(nums1, target1);
-            System.out.println("Output: [" + result1[0] + ", " + result1[1] + "]");
+            int[] result = twoSum(nums1, target1);
+            System.out.println("Output: [" + result[0] + ", " + result[1] + "]");
 
             // Example 2
             int[] nums2 = {3, 2, 4};

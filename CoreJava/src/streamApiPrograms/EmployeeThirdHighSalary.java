@@ -34,6 +34,7 @@ class Employee2 {
         return salary;
     }
 }
+//------------recomended approach---------------------------------
 
 public class EmployeeThirdHighSalary {
 	public static void main(String[] args) {

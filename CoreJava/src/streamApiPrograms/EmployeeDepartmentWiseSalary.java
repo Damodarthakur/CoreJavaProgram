@@ -15,17 +15,19 @@ public class EmployeeDepartmentWiseSalary {
                 new EmployeeEntity("Eve", "Female", "IT", 72000)
         );
 
+        //1 >***************  female IT department employee with salary :     ------------->"
+        System.out.println("female IT department employee with salary :     ------------->" );
+
         Map<String,Double> strMap = employees.stream().filter(emp-> emp.getGender().equals("Female") && emp.getDepartment().equals("IT"))
                 .collect(Collectors.toMap(EmployeeEntity::getName,EmployeeEntity::getSalary));
 
-
-
-        System.out.println("female IT employee with salary :     ------------->" );
         strMap.forEach((name,salary)-> System.out.println("name : "+name+ " ,salary :"+salary));
 
 
         System.out.println("--------------------------------------------");
-        System.out.println("all female employees grouped by department with their salaries:");
+        //***********all female employees grouped by department with their salaries:" ********************
+
+        System.out.println("all female employees grouped name with department with their salaries:");
 
 
         Map<String, Map<String, Double>> femaleDeptWise = employees.stream()
@@ -40,8 +42,11 @@ public class EmployeeDepartmentWiseSalary {
             empMap.forEach((name, salary) ->
                     System.out.println("   " + name + " : " + salary));
         });
+        System.out.println(femaleDeptWise);
         System.out.println("--------------------------------------------");
-        System.out.println("all  employees grouped by department with their salaries:");
+
+        //********all  employees grouped by name with department and their salaries:"**********************
+        System.out.println("all  employees grouped by name with department and their salaries:");
        Map<String,Map<String, Double>>  allEmpWithDepnSalary = employees.stream()
                             .collect(Collectors.groupingBy(EmployeeEntity::getName
                                     ,Collectors.toMap(EmployeeEntity::getDepartment,EmployeeEntity::getSalary)));
