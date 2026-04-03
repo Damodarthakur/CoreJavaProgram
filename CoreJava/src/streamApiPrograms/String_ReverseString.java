@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 public class String_ReverseString {
     public static void main(String[] args) {
 
-                String str = "madam";
+                String str = "maidam";
 
                 String reversedStr = IntStream.range(0, str.length())
                         .mapToObj(i -> str.charAt(str.length() -1-i))
@@ -18,12 +18,14 @@ public class String_ReverseString {
                 //check whether string pallindrome or not
 
         if(str.equals(reversedStr)){
-            System.out.println(str + " is pallindrome");
+            System.out.println(str + " is pallindrome ");
         }
+        else System.out.println(str + " is not palindrome");
         //     OR
+        System.out.println("--By using Boolean----------");
         Boolean isPallindrome = str.equals(reversedStr);
 
-        System.out.println(isPallindrome);
+        System.out.println(str+" isPallindrome " +isPallindrome);
 
 
 

@@ -30,6 +30,7 @@ public class String_GroupAnagrams {
 
         grouped.values().forEach(System.out::println);
     }
+}
 
     /*
     -------------explanation -------------------------------------------------
@@ -97,5 +98,5 @@ public class GroupAnagrams {
 }
 
      */
-}
+
 
